@@ -1,2 +1,2 @@
 # Pattern-Programs-logic
-Understand the logic behind Patter Programs 
+Understand the logic behind Pattern Programs 
